@@ -35,14 +35,6 @@ Pesquisador de Iniciação Científica com foco em **Inteligência Artificial Ge
 
 ---
 
-### 📈 Atividade no GitHub
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andre-abe&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-abe&layout=compact&theme=graywhite&hide_border=true"/>
-</div>
-
----
-
 <div align="left">
   <a href="https://www.linkedin.com/in/andre-aracema" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
