@@ -1,17 +1,54 @@
-# Olá, me chamo André Akira
+# André Akira
 
-Sou programador e entusiasta de ciência de dados.
+### Acadêmico de Ciência da Computação | Universidade Federal do Paraná (UFPR)
 
-**Sobre mim**
-- Sou estudante de Ciência da Computação na UFPR
-- Apaixonado por ciência de dados e resolução de problemas
-- Estudando Python e SQL para análise de dados
-- Sempre aprendendo e evoluindo
+Pesquisador de Iniciação Científica com foco em **Inteligência Artificial Generativa**, especificamente em **Large Language Models (LLMs)** e arquiteturas **RAG (Retrieval-Augmented Generation)**. Membro do **PET Computação** (Programa de Educação Tutorial), atuando no desenvolvimento de projetos acadêmicos, ensino e extensão.
 
-**Linguagens e Ferramentas**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📍 Atuação e Desenvolvimento
+
+* **Iniciação Científica:** Investigação e implementação de modelos de linguagem e otimização de contexto via RAG.
+* **PET Computação:** Desenvolvimento de soluções de software para a comunidade acadêmica e tutoria técnica.
+* **Foco de Estudos Atuais:** Arquiteturas de **Cloud Computing** voltadas para pipelines de dados e Machine Learning.
+* **Disponibilidade Profissional:** Busco oportunidades de **Estágio em Data Science/Machine Learning**.
+
+---
+
+### 💻 Competências Técnicas
+
+**Linguagens de Programação**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Data Science & Análise**
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Infraestrutura & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📈 Atividade no GitHub
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andre-akira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-akira&layout=compact&theme=graywhite&hide_border=true"/>
+</div>
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
