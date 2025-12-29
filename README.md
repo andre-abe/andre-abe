@@ -45,10 +45,10 @@ Pesquisador de Iniciação Científica com foco em **Inteligência Artificial Ge
 ---
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/andre-aracema" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+  <a href="mailto:andreakirapic@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Fale%20Comigo-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
